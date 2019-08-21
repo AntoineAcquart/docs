@@ -86,7 +86,7 @@ Here we simply launch the tests from an image and a docker volume.
 
 ```yml
 #a docker image can be specified
-image: visitadom_coordination
+image: <image>
 
 #stages are the steps performed after a commit
 stages:

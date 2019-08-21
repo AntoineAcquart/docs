@@ -40,10 +40,10 @@ Then we record a Runner. You can retrieve the token and consult your Runners in 
   `sudo gitlab-runner register`
 
 1. Enter the GitLab instance url :
-"Console
+```console
 Please enter the gitlab-ci coordinator URL (e.g. https://gitlab.com)
 https://gitlab.com
-
+```
 
 2. Enter the token:
 ```console

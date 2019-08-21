@@ -86,7 +86,7 @@ Ici on lance simplement les tests à partir d'une image et d'un volume docker.
 
 ```yml
 #une image docker peut-être spécifiée
-image: visitadom_coordination
+image: <image>
 
 #les stages sont les étapes réalisées après un commit
 stages:
